@@ -7,7 +7,7 @@ filename: index
 ### Created by <a href="https://github.com/MehrdadSamadishadlou">Mehrdad Samadishadlou</a>
 
 
-<p style="text-align: center"><img width="800" alt="Picture1" src="https://github.com/user-attachments/assets/08139139-d4bc-417d-96eb-2510549dde2e"></p>
+<p style="text-align: center"><img width="850" alt="Picture1" src="https://github.com/user-attachments/assets/08139139-d4bc-417d-96eb-2510549dde2e"></p>
 
 <p style='text-align: justify;'>
 Welcome to our introductory course on Python programming! This comprehensive 10-session course is designed to guide you through the fundamentals of Python, one of the world's most versatile and widely used programming languages.
