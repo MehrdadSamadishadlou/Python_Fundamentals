@@ -60,6 +60,7 @@ It can be useful to keep this list of Python reserved keywords handy. If you enc
 </p>
 
 <!--
+
 ## Session Codes
 
 You can download the code I have written during this session as a pdf file from the following link.
@@ -192,3 +193,5 @@ Some libraries are needed for the project we are covering during this session. P
 The following tables and codes will be generated during the session. They are available here in case you missed a part of the class:
 
 <a href="https://drive.google.com/file/d/1_ZVO_Rjn0RnNe_uK8-8e8qBuHOZFQzpg/view?usp=drive_link" target="_blank"><button>Bioactivity Data</button></a>
+
+-->
