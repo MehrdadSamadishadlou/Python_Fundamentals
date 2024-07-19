@@ -9,11 +9,11 @@ filename: index
 <p style="text-align: center"><img width="500" alt="Picture1" src="https://github.com/MehrdadSamadishadlou/Python_for_Beginners/assets/95024166/55d9b0dd-20ce-4fe0-8faa-ea8ba284060b"></p>
 
 <p style='text-align: justify;'>
-Welcome to our introductory course on Python programming! This comprehensive 15-session course is designed to guide you through the fundamentals of Python, one of the most versatile and widely used programming languages in the world.
+Welcome to our introductory course on Python programming! This comprehensive 10-session course is designed to guide you through the fundamentals of Python, one of the world's most versatile and widely used programming languages.
 </p>
 
 <p style='text-align: justify;'>
-Starting on Ordibehesht 29th, we will embark on an exciting journey, exploring the core concepts of Python, including variables and simple data types, if statements, dictionaries, loops, functions, and many more. Each session will be packed with hands-on activities, allowing you to apply what you've learned through practical exercises and engaging projects.
+Starting on Tir 30th, we will embark on an exciting journey, exploring the core concepts of Python, including variables and simple data types, if statements, dictionaries, loops, functions, and many more. Each session will be packed with hands-on activities, allowing you to apply what you've learned through practical exercises and engaging projects.
 </p>
 
 <p style='text-align: justify;'>
@@ -21,15 +21,11 @@ Whether you're new to programming or already familiar with other languages, this
 </p>
 
 <p style='text-align: justify;'>
-Suppose you would like any additional details about the course or want to connect. In that case, I'm happy to provide more information and answer questions - feel free to reach out to me directly at <b>mehrdad.samadi90@gmail.com</b> or visit my <a href="https://www.linkedin.com/in/mehrdad-samadishadlou-90723580/">LinkedIn profile</a> to learn more about my background.
+If you would like any additional details about the course or want to connect, In that case, I'm happy to provide more information and answer questions - feel free to reach out to me directly at <b>mehrdad.samadi90@gmail.com</b> or visit my <a href="https://www.linkedin.com/in/mehrdad-samadishadlou-90723580/">LinkedIn profile</a> to learn more about my background.
 </p>
 
 <p style='text-align: justify;'>
-This course, conducted in collaboration with the Research Development & Coordination Center (RDCC) and Medical Biotechnology Scientific Association of Tabriz University of Medical Sciences, is open for registration. Please follow the link to the RDCC workshops website for more information and to sign up: <a href="https://workshop.tbzmed.ac.ir/fa/" target="_blank"><button>RDCC Workshop</button></a>
-</p>
-
-<p style='text-align: justify;'>
-Additionally, you have the option to view the class video recordings on my <a href="https://www.youtube.com/@MehrdadSamadishadlou" target="_blank"><button>YouTube</button></a> channel. 
+This course is conducted in collaboration with the Research Development & Coordination Center (RDCC) of Tabriz University of Medical Sciences.
 </p>
 
   
@@ -48,7 +44,7 @@ This webpage is your go-to resource for all materials, exercises, and projects r
 </p>
 
 <p style='text-align: justify;'>
-Finally, on <a href="https://mehrdadsamadishadlou.github.io/Python_for_Beginners/projects">the project page</a> the project page, you will find information about the course projects. I will provide you with project descriptions, requirements, and guidelines to help you complete them successfully. These projects will give you the opportunity to apply your knowledge and skills in a real-world setting and showcase your work to your fellow students.
+Finally, on <a href="https://mehrdadsamadishadlou.github.io/Python_for_Beginners/projects">the project page</a> the project page, you will find information about the course projects. I will provide you with project descriptions, requirements, and guidelines to help you complete them successfully. These projects will allow you to apply your knowledge and skills in a real-world setting and showcase your work to your fellow students.
 </p>
 
 <p style='text-align: justify;'>
