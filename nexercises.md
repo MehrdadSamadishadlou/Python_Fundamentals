@@ -54,6 +54,7 @@ filename: nexercises
       d.`print( str(var % 10) + str(var / 10) )`
 
 
+<!--
 # 2nd Session
 
 1. Write a program that takes an input number and outputs the next multiple of 10 that is greater than the given number. For instance, if the input is 11, the program should print 20. If the input is 40, it should print 50.
@@ -387,7 +388,7 @@ Extra exercises are available using the following link.
 6. Write a program to check if AB and BA can be found in a string without overlapping each other. The order of AB and BA does not matter. For example, if the input is ABBA the answer is YES. If the input is BAAB the answer is still YES. But if the input is ABA the answer is NO. Or if the input is ABHA the answer is still NO.
 
 
-<!--
+
 # 7. Seventh Session
 
 
