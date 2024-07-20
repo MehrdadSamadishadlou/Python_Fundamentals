@@ -59,16 +59,16 @@ class   False     in       pass      yield
 It can be useful to keep this list of Python reserved keywords handy. If you encounter an error message from the interpreter related to a variable name, you can quickly check if the variable name is a reserved keyword by referring to this list.
 </p>
 
-<!--
+
 
 ## Session Codes
 
-You can download the code I have written during this session as a pdf file from the following link.
+You can download the code I have written during this session as a text file from the following link.
 
 
-<a href="https://drive.google.com/file/d/1_UGSOkfAmlK30LZevBZHkaFE_URKISyn/view?usp=drive_link" target="_blank"><button>First Session Codes</button></a>
+<a href="https://drive.google.com/file/d/1_ip4KsTjXX27mTf9m8mV4rdW53HULLEo/view?usp=drive_link"><button>First Session Codes</button></a>
 
-
+<!--
 
 # 2nd Session
 
