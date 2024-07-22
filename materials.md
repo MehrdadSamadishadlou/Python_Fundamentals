@@ -68,7 +68,6 @@ You can download the code I have written during this session as a text file from
 
 <a href="https://drive.google.com/file/d/1_ip4KsTjXX27mTf9m8mV4rdW53HULLEo/view?usp=drive_link"><button>First Session Codes</button></a>
 
-<!--
 
 # 2nd Session
 
@@ -81,8 +80,9 @@ w3schools website can be highly beneficial during your learning process. It prov
 
 I have uploaded all the codes I have written in a zip file.
 
-<a href="https://drive.google.com/file/d/1_TP8fKPErqdHThUejAXF5F7M5geooPzu/view?usp=drive_link" target="_blank"><button>Second Session Codes</button></a>
+<a href="https://drive.google.com/file/d/1_jaPCfyKpHwVW6TLfSlp9PTG6RNEHbOi/view?usp=drive_link"><button>Second Session Codes</button></a>
 
+<!--
 
 # 3rd Session
 
