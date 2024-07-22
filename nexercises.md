@@ -54,12 +54,12 @@ filename: nexercises
       d.`print( str(var % 10) + str(var / 10) )`
 
 
-<!--
+
 # 2nd Session
 
-1. Write a program that takes an input number and outputs the next multiple of 10 that is greater than the given number. For instance, if the input is 11, the program should print 20. If the input is 40, it should print 50.
+1. Write a program that takes an input number and outputs the next multiple of 10 greater than the given number. For instance, if the input is 11, the program should print 20. If the input is 40, it should print 50.
 
-2. Write a program that takes two input numbers and prints the larger number as the output. The first line of input should contain the first number, while the second line should contain the second number. The input numbers are guaranteed to be positive integers. If the two input numbers are equal, you can print either one of them.
+2. Write a program that takes two input numbers and prints the larger number as the output. The first input line should contain the first number, while the second line should contain the second number. The input numbers are guaranteed to be positive integers. If the two input numbers are equal, you can print either one of them.
 
 3. Write a program that prompts the user to enter their age and prints their corresponding age group.
 
@@ -83,6 +83,7 @@ filename: nexercises
         <img id="Hist" src="https://github.com/MehrdadSamadishadlou/Python_for_Beginners/assets/95024166/114a81c4-2d80-4f6f-9d65-982f3fbf635f" width="300" />
       </p>
 
+<!--
 
 # 3rd Session
 
