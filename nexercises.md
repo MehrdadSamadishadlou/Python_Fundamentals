@@ -83,7 +83,7 @@ filename: nexercises
         <img id="Hist" src="https://github.com/MehrdadSamadishadlou/Python_for_Beginners/assets/95024166/114a81c4-2d80-4f6f-9d65-982f3fbf635f" width="300" />
       </p>
 
-<!--
+
 
 # 3rd Session
 
@@ -139,6 +139,7 @@ filename: nexercises
    >= 12     D
    < 12     F
    ```
+<!--
 
 # 4th Session
 
