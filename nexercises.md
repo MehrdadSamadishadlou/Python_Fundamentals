@@ -140,7 +140,6 @@ filename: nexercises
    < 12     F
    ```
 
-<!--
 
 # 4th Session
 
@@ -248,7 +247,7 @@ filename: nexercises
    672 24
    ```
 
-
+<!--
 # 5th Session: Exercise 
 
 Extra exercises are available using the following link.
