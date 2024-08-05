@@ -247,14 +247,14 @@ filename: nexercises
    672 24
    ```
 
-<!--
+
 # 5th Session: Exercise 
 
 Extra exercises are available using the following link.
 
-<a href="https://drive.google.com/file/d/1icmPta_KH3_Cx6VU7U_Tr9V-HUJRGI0r/view?usp=sharing" target="_blank"><button>Exercises</button></a>
+<a href="https://drive.google.com/file/d/16m7knLs47BDvdV1Nnb3R1_CAKTd5qpjo/view?usp=drive_link"><button>Exercises</button></a>
 
-
+<!--
 
 # 6th & 7th Sessions: Data Structures and Methods
 
