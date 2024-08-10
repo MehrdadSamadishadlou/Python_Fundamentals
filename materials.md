@@ -111,16 +111,16 @@ All codes were uploaded as a zip file.
 
 <a href="https://drive.google.com/file/d/1fEcVrzvMuVAiR0m9AIOMlcnWzXY_8KNJ/view?usp=drive_link" target="_blank"><button>Exercise Session Codes</button></a>
 
-<!--
+
 # 6th Session
 
 ## Session Codes
 
 All codes were uploaded as a zip file.
 
-<a href="https://drive.google.com/file/d/1_XbtaWdG72lyclOQBaUJEkDRLgQ94raA/view?usp=drive_link" target="_blank"><button>Sixth Session Codes</button></a> 
+<a href="https://drive.google.com/file/d/1fEq7cBEeE1WIoCTRI3RoX2CgGVg_yueY/view?usp=drive_link" target="_blank"><button>Sixth Session Codes</button></a> 
 
-
+<!--
 # 7th Session
 
 ## Session Codes
