@@ -254,7 +254,7 @@ Extra exercises are available using the following link.
 
 <a href="https://drive.google.com/file/d/16m7knLs47BDvdV1Nnb3R1_CAKTd5qpjo/view?usp=drive_link"><button>Exercises</button></a>
 
-<!--
+
 
 # 6th & 7th Sessions: Data Structures and Methods
 
@@ -390,7 +390,7 @@ Extra exercises are available using the following link.
 6. Write a program to check if AB and BA can be found in a string without overlapping each other. The order of AB and BA does not matter. For example, if the input is ABBA the answer is YES. If the input is BAAB the answer is still YES. But if the input is ABA the answer is NO. Or if the input is ABHA the answer is still NO.
 
 
-
+<!--
 # 7. Seventh Session
 
 
