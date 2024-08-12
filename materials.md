@@ -120,16 +120,16 @@ All codes were uploaded as a zip file.
 
 <a href="https://drive.google.com/file/d/1fEq7cBEeE1WIoCTRI3RoX2CgGVg_yueY/view?usp=drive_link" target="_blank"><button>Sixth Session Codes</button></a> 
 
-<!--
+
 # 7th Session
 
 ## Session Codes
 
 All codes were uploaded as a zip file.
 
-<a href="https://drive.google.com/file/d/1_Y4OF349PpY0Ic3HsDi_RAweSynuv7Zj/view?usp=drive_link" target="_blank"><button>Seventh Session Codes</button></a>
+<a href="https://drive.google.com/file/d/1fF_ibsPWsixySSFsJc4Ll25_jm3L4dIh/view?usp=drive_link"><button>Seventh Session Codes</button></a>
 
-
+<!--
 
 # 8th Session
 
