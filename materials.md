@@ -129,7 +129,7 @@ All codes were uploaded as a zip file.
 
 <a href="https://drive.google.com/file/d/1fF_ibsPWsixySSFsJc4Ll25_jm3L4dIh/view?usp=drive_link"><button>Seventh Session Codes</button></a>
 
-<!--
+
 
 # 8th Session
 
@@ -161,7 +161,7 @@ An example of input and output for the exercise mentioned in the class.
    which was 4 times, and the most repeated domain is example.com 
    with 6 received emails.
    ```
- 
+<!--
 
 
 ## Session Codes
