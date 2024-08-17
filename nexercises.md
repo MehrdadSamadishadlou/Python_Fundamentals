@@ -390,13 +390,13 @@ Extra exercises are available using the following link.
 6. Write a program to check if AB and BA can be found in a string without overlapping each other. The order of AB and BA does not matter. For example, if the input is ABBA the answer is YES. If the input is BAAB the answer is still YES. But if the input is ABA the answer is NO. Or if the input is ABHA the answer is still NO.
 
 
-<!--
-# 7. Seventh Session
+
+# 8th Session: Exercise
 
 
 1. Making a real dictionary:
 
-   The first line of input contains an integer n which represents the number of words in the dictionary. Each of the next n lines contains two words where the second word shows the meaning of the first word. The next line contains a sentence. A sentence consists of multiple words separated by spaces. Now write a program that reads the dictionary and sentence from input, and translates the sentence. During translation, if a word does not exist in the dictionary, print the word itself in the output. For more information see the sample input and output.
+   The first line of input contains an integer n which represents the number of words in the dictionary. Each of the next n lines contains two words whereas the second word shows the meaning of the first word. The next line contains a sentence. A sentence consists of multiple words separated by spaces. Now write a program that reads the dictionary and sentence from input, and translates the sentence. During translation, if a word does not exist in the dictionary, print the word itself in the output. For more information see the sample input and output.
 
    example input:
    ```
@@ -413,5 +413,6 @@ Extra exercises are available using the following link.
    ```
    ma goftan khodafez to shoma tonight
    ```
-   
+
+<!--
 -->
