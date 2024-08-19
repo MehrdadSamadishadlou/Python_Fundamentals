@@ -171,21 +171,21 @@ All codes were uploaded as a zip file.
 <a href="https://drive.google.com/file/d/1fFs8C-N0nS05FeeXEFB6T7mAoqjUsbjr/view?usp=drive_link"><button>Eighth Session Codes</button></a>
 
 
-<!--
+
 # 9th Sessions
 
-You can download the **word** dataset using the following link: 
+You can download the **words** dataset using the following link: 
 
-<a href="https://drive.google.com/file/d/1_YvtQqg8oi-SC2kOtli__cZH6yAw6ZHd/view?usp=drive_link" target="_blank"><button>word.csv</button></a>
+<a href="https://drive.google.com/file/d/1fJyLAkglFUKcx89wplsZ9pVoCtTdTkb1/view?usp=drive_link"><button>words.csv</button></a>
 
-
+<!--
 ## Session Codes
 
 All codes were uploaded as a zip file.
 
 <a href="https://drive.google.com/file/d/1_ZLMp1aMaBjKaI_S7jOJER1jwphfdW4T/view?usp=drive_link" target="_blank"><button>Ninth Sessions Codes</button></a>
 
-# 10, 11, and 12th Session
+# 10th Session
 
 Some libraries are needed for the project we are covering during this session. Please install them on your Python using pip:
 
